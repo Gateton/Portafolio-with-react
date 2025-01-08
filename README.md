@@ -39,12 +39,22 @@ A modern, customizable portfolio website built with React, Next.js, and Framer M
    - Interactive timeline
    - Skill tags
 
+   ![Experience Section](Experience%20section.png)
+
 4. **Projects**
    - Project showcase
    - Live demos
    - GitHub links
 
-5. **Contact** (work in progress)
+   ![Feature Projects Section](Feature%20Projects%20section.png)
+
+5. **Skills**
+   - Highlight of technologies
+   - Interactive skill showcase
+
+   ![Skills](Skills.png)
+
+6. **Contact** (work in progress)
    - Contact form
    - Social media links
    - Location map
