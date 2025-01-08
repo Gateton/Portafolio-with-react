@@ -44,7 +44,7 @@ A modern, customizable portfolio website built with React, Next.js, and Framer M
    - Live demos
    - GitHub links
 
-5. **Contact**
+5. **Contact** (work in progress)
    - Contact form
    - Social media links
    - Location map
