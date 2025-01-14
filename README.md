@@ -9,7 +9,6 @@ A modern, customizable portfolio website built with React, Next.js, and Framer M
 - **📱 Responsive Design**: Fully responsive layout that looks great on all devices
 - **🎨 Customizable**: Easy to customize with your own content and styling
 - **🎭 Smooth Animations**: Beautiful transitions and animations using Framer Motion
-- **🌓 Dark/Light Mode**: Toggle between dark and light themes
 - **⚡ Fast Performance**: Optimized for speed using Next.js
 - **📊 Interactive Sections**: Engaging user interface with interactive elements
 
